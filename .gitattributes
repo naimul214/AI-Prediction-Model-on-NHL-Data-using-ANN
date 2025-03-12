@@ -1,0 +1,4 @@
+nhl_data/game_skater_stats.csv filter=lfs diff=lfs merge=lfs -text
+nhl_data/game_shifts.csv filter=lfs diff=lfs merge=lfs -text
+nhl_data/game_plays.csv filter=lfs diff=lfs merge=lfs -text
+nhl_data/game_plays_players.csv filter=lfs diff=lfs merge=lfs -text
